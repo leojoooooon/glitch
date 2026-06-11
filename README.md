@@ -8,7 +8,8 @@ In this work, I attempted to discard deliberate conceptual framing, fully immers
 
 The operational logic of the final output leans toward a mutual progression, where visuals and sound continuously drive each other forward. This ultimate output was recorded as a single, complete live set, captured through a custom-designed TouchDesigner system and performatively shaped in real-time via hardware controllers and parameter manipulation.
 
-
+## touchdesigner system
 <img width="624" height="310" alt="Screenshot 2026-06-11 at 8 27 25 AM" src="https://github.com/user-attachments/assets/c6505ab5-d9a8-4c21-9811-8f7deba3e4f9" />
 
+## ableton
 <img width="474" height="303" alt="Screenshot 2026-06-11 at 8 18 16 AM" src="https://github.com/user-attachments/assets/eb18b5dc-5d3f-444d-aec5-cc4a80446897" />
